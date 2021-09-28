@@ -1,10 +1,6 @@
+#Trig-Functions
+
 Ruchit Patel
-
-rpatel18
-
-Spring 2021
-
-Assignment 2: A Small Numerical Library
 
 ---------------------
 DESCRIPTION
