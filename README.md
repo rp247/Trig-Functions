@@ -70,4 +70,5 @@ With make:
 6. In order to clean up (remove object and executable files), run “make clean” in the terminal.
 
 
+-This is partially a part of a lab assignment given by Prof. Darrell Long.
 
